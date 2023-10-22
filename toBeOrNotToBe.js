@@ -28,8 +28,6 @@ function expect(val) {
     };
 }
 
-
-
 try {
 
     console.log(expect(5).toBe(5));
